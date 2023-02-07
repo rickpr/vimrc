@@ -22,7 +22,6 @@ Plugin 'mileszs/ack.vim'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'kien/ctrlp.vim'
 Plugin 'scrooloose/syntastic'
-Plugin 'numirias/semshi'
 Plugin 'tpope/vim-dispatch'
 Plugin 'vim-test/vim-test'
 
